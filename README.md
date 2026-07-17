@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+![Application Preview](app-preview.png)
+
 ## Deskripsi
 Aplikasi ini digunakan untuk memprediksi apakah seorang pelanggan berpotensi melakukan **Customer Churn** menggunakan algoritma **Random Forest** yang telah dioptimasi menggunakan **Hyperparameter Tuning**. Aplikasi dikembangkan menggunakan **Streamlit** sehingga pengguna dapat melakukan prediksi secara interaktif melalui web.
 
